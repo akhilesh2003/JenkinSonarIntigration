@@ -1,0 +1,15 @@
+package akhil;
+
+public class Test {
+	public static void main(String[] args) {
+		int a = 1;
+		short b = 1;
+		System.out.println(a==b);
+	}
+
+	public enum B{
+		a_a, b_b;
+		
+	}
+	
+}
